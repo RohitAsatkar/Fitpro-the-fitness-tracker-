@@ -76,4 +76,4 @@ project/
 
 ### License
 
-nill
+This project is licensed – feel free to customize this section as needed.
