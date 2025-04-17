@@ -74,6 +74,3 @@ project/
 - `npm run build` - Build the app for production
 - `npm run lint` - Run ESLint to check code quality
 
-### License
-
-This project is licensed – feel free to customize this section as needed.
